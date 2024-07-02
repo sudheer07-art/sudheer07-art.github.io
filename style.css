@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #fofofo;
+    background-color: #f0f0f0;
 }
 
 .container {
@@ -76,7 +76,7 @@ section img {
 section p {
     flex: 1;
     margin-left: 20px;
-    font-size: 70px;
+    font-size: 20px;
     line-height: 1.8;
 }
 
